@@ -7,14 +7,15 @@ Seja uma tecnologia especifica ou de um grupo especifico. Tudo que é podecast t
 
 ## Portugues
 
-** Front End **
+**Front End**
 
 [ ZOFE ](http://zofe.com.br/)
 
-** Node JS **
+**Node JS**
+
 [ Nodebr ](https://soundcloud.com/nodebr)
 
-** Tecnologia em Geral **
+**Tecnologia em Gera**
 
 [ Tecnologicamente Arretado ](http://tecnologicamentearretado.com.br/)
 
@@ -26,6 +27,6 @@ Seja uma tecnologia especifica ou de um grupo especifico. Tudo que é podecast t
 
 ## Inglês
 
-** Android **
+**Android**
 
 [ Fragmented ](http://fragmentedpodcast.com/)
