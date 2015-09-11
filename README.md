@@ -15,7 +15,7 @@ Seja uma tecnologia especifica ou de um grupo especifico. Tudo que é podecast t
 
 [ Nodebr ](https://soundcloud.com/nodebr)
 
-**Tecnologia em Gera**
+**Tecnologia em Geral**
 
 [ Tecnologicamente Arretado ](http://tecnologicamentearretado.com.br/)
 
