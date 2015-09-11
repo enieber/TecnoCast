@@ -5,15 +5,27 @@ Este repositorio reuinira o maior numero de links para podecasts de tecnologia.
 Seja uma tecnologia especifica ou de um grupo especifico. Tudo que é podecast tecnologico podera ser linkado aqui.
 
 
+## Portugues
+
+** Front End **
 
 [ ZOFE ](http://zofe.com.br/)
 
-[ Hack 'n' Cast ](http://hackncast.org/)
+** Node JS **
+[ Nodebr ](https://soundcloud.com/nodebr)
+
+** Tecnologia em Geral **
+
+[ Tecnologicamente Arretado ](http://tecnologicamentearretado.com.br/)
 
 [ Grock Podecast ](http://www.grokpodcast.com/)
 
 [ DevNaEstrada ](http://devnaestrada.com.br/)
 
-[ Nodebr ](https://soundcloud.com/nodebr)
+[ Hack 'n' Cast ](http://hackncast.org/)
 
-[ Tecnologicamente Arretado ](http://tecnologicamentearretado.com.br/)
+## Inglês
+
+** Android **
+
+[ Fragmented ](http://fragmentedpodcast.com/)
