@@ -29,6 +29,10 @@ Seja uma tecnologia especifica ou de um grupo especifico. Tudo que é podecast t
 
 ## Inglês
 
+[ DevOps ](http://devops.com/)
+
+
 **Android**
+
 
 [ Fragmented ](http://fragmentedpodcast.com/)
