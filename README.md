@@ -34,5 +34,10 @@ Seja uma tecnologia especifica ou de um grupo especifico. Tudo que é podecast t
 
 **Android**
 
-
 [ Fragmented ](http://fragmentedpodcast.com/)
+
+## Polonês
+
+**Js and Front end**
+
+[ Just 4 Fun ](http://just4fun.io/)
